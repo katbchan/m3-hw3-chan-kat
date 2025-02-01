@@ -1,1 +1,4 @@
-# m3-hw3-chan-kat
+# Lighthouse Report #
+![Report](Report.JPG)
+![Accessibility](report-accessibility.JPG)
+![SEO](report-SEO.JPG)
