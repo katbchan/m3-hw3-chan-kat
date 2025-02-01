@@ -1,4 +1,4 @@
 # Lighthouse Report #
-![Report](Report.JPG)
+![Report](report.JPG)
 ![Accessibility](report-accessibility.JPG)
 ![SEO](report-SEO.JPG)
